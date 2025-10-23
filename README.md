@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/GiviMch" width="160" style="border-radius:50%" alt="Givi Mchedlidze"/>
+</p>
+
 <h1 align="center">👋 Привет, я Givi Mchedlidze</h1>
 <h3 align="center">Junior Java Developer | From Business Systems to Code Systems</h3>
 
