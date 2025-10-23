@@ -80,4 +80,14 @@
 
 ---
 
+### 📬 Связаться со мной
+📧 Email: [geva1992@yandex.ru](mailto:geva1992@yandex.ru)  
+💬 Telegram: [@giviMch](https://t.me/giviMch)  
+📄 [Моё резюме на hh.ru](./certificates/Мчедлидзе_Георгий_резюме.pdf)
+
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GiviMch&theme=tokyonight&hide_border=true"/>
+</p>
+
 
