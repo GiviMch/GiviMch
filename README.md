@@ -86,8 +86,5 @@
 📄 [Моё резюме на hh.ru](./certificates/Мчедлидзе_Георгий_резюме.pdf)
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GiviMch&theme=tokyonight&hide_border=true"/>
-</p>
 
 
