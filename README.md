@@ -64,13 +64,20 @@
 > 💡 *Чтобы добавить новый документ — просто загрузите файл в папку `certificates/` и обновите таблицу выше.*
 ---
 
-### 🧩 Проекты
+## 🧩 Проекты
 
 | Проект | Описание | Технологии |
 |--------|-----------|-------------|
-| [☁️ Cloud Storage](https://github.com/GiviMch/CloudStorage) | REST API для облачного хранилища с авторизацией, CRUD-операциями над файлами и интеграционными тестами | Java, Spring Boot, JPA, Flyway, H2, Mockito, Testcontainers |
-| [💡 Java Core Practice](https://github.com/GiviMch/java-basics) | Подборка учебных задач по Java: ООП, коллекции, потоки, исключения | Java, Collections, OOP |
-| [🏦 Finance Tracker](#) *(планируется)* | Приложение для учёта расходов и доходов | Spring Boot, PostgreSQL |
+| [☁️ Cloud Storage](https://github.com/GiviMch/cloudservices) | Дипломный проект: серверная часть облачного хранилища (аналог Яндекс.Диска). Реализованы авторизация по токену, CRUD-операции с файлами, логирование и интеграционные тесты. | Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, H2, Flyway, Lombok, JUnit5, Mockito, Testcontainers, Maven |
+| [🔗 Microservice BFF](https://github.com/GiviMch/microservice-bff-parent) | Два микросервиса с архитектурой BFF (Backend for Frontend). Реализовано взаимодействие между сервисами, REST API и проксирование запросов. | Java, Spring Boot, Spring Web, Spring Cloud OpenFeign, Lombok, JUnit5, Mockito, Maven |
+| [⚙️ Config Server](https://github.com/GiviMch/config-server-parent) | Централизованное управление конфигурациями для микросервисов через Spring Cloud Config. | Java, Spring Boot, Spring Cloud Config, Git-backed Configs, Maven |
+| [🔐 Auth Service](https://github.com/GiviMch/AuthApplication) | Сервис авторизации пользователей с хешированием паролей (BCrypt) и управлением токенами. | Java, Spring Boot, Spring Security, Spring Data JPA, Lombok, BCrypt, H2/PostgreSQL, Maven, JUnit5, Mockito |
+| [🌐 Reverse Proxy (NGINX)](https://github.com/GiviMch/NGINX-proxy) | Настроен NGINX в качестве обратного прокси для маршрутизации запросов к микросервисам. | NGINX, Docker, Reverse Proxy, HTTP |
+| [🧵 Threads & Concurrency](https://github.com/GiviMch/Thread) | Практика многопоточного программирования: управление потоками, синхронизация и конкурентные коллекции. | Java, ExecutorService, Future, Callable, synchronized, CountDownLatch, Locks |
+| [🧪 Test Driven Development](https://github.com/GiviMch/TestDrivenDevelopment) | Методология разработки через тестирование (TDD). Построение кода на основе юнит-тестов. | Java, JUnit5, Mockito, AssertJ, TDD |
+| [🌍 HTTP & Web Basics](https://github.com/GiviMch/HTTP-WEB) | Изучение принципов HTTP, REST и работы веб-приложений. Реализованы учебные эндпоинты. | Java, Spring MVC, HTTP, REST, JSON |
+| [🧩 Servlets](https://github.com/GiviMch/Servlet) | Работа с сервлетами: фильтры, параметры, жизненный цикл и деплой на контейнер. | Java, Jakarta Servlet API, Tomcat |
+| [🚀 Finance Tracker (в планах)](#) | Pet-проект для учёта личных финансов и расходов. | Java, Spring Boot, PostgreSQL, REST API |
 
 ---
 
